@@ -1,2 +1,4 @@
-# Bull-Fighter-OOP-C-
-Built this game in C++ with my team which was user interactive by taking their movement through the arrow keys of the keyboard.
+# Object-Oriented-Programming--Project
+In this exciting bull fighting game, the matador has been placed in a rink with an energized bull who
+is determined to make the matador’s life a living chaos. To survive, the matador has to finish the bull
+before it finishes him. 
